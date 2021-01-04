@@ -1,0 +1,9 @@
+/home/kameleon/Desktop/ListeZad13/ListeZad13/bin/Debug/net48/ListeZad13.exe.config
+/home/kameleon/Desktop/ListeZad13/ListeZad13/bin/Debug/net48/ListeZad13.exe
+/home/kameleon/Desktop/ListeZad13/ListeZad13/bin/Debug/net48/ListeZad13.pdb
+/home/kameleon/Desktop/ListeZad13/ListeZad13/obj/Debug/net48/ListeZad13.csprojAssemblyReference.cache
+/home/kameleon/Desktop/ListeZad13/ListeZad13/obj/Debug/net48/ListeZad13.AssemblyInfoInputs.cache
+/home/kameleon/Desktop/ListeZad13/ListeZad13/obj/Debug/net48/ListeZad13.AssemblyInfo.cs
+/home/kameleon/Desktop/ListeZad13/ListeZad13/obj/Debug/net48/ListeZad13.csproj.CoreCompileInputs.cache
+/home/kameleon/Desktop/ListeZad13/ListeZad13/obj/Debug/net48/ListeZad13.exe
+/home/kameleon/Desktop/ListeZad13/ListeZad13/obj/Debug/net48/ListeZad13.pdb
